@@ -1,1 +1,1 @@
-print "work"
+print "work may be not"
